@@ -1,5 +1,9 @@
-# p5.js Mouse Pointer with Collision Object Classes 
 
+# p5.js Mouse Pointer with Collision Object Classes 
+<p align="center">
+  <img width="100" height="100" src="https://github.com/tlhcelik/p5js-collision/blob/master/p5.png">
+</p>
+<hr>
 
 ```html
   <head>
@@ -7,9 +11,9 @@
     <script  src="p5_collide2d.js"></script>
   </head>
 ```
-
-![fig 1.](https://github.com/tlhcelik/p5js-collision/blob/master/ss.jpg)
-
+<p align="center">
+  <img  src="https://github.com/tlhcelik/p5js-collision/blob/master/ss.jpg">
+</p>
 Yellow circles had created by p5.js code.
 
 ```javascript
@@ -35,6 +39,9 @@ function MousePointer() {
 }
 ```
 **When mouse pointer collide this object, set to radius 0. In this way can **unvisible** this object or you can **delete** object.**
-
-![fig 2.](https://github.com/tlhcelik/p5js-collision/blob/master/ss2.jpg)
-![fig 3.](https://github.com/tlhcelik/p5js-collision/blob/master/ss3.jpg)
+<p align="center">
+  <img  src="https://github.com/tlhcelik/p5js-collision/blob/master/ss2.jpg">
+</p>
+<p align="center">
+  <img  src="https://github.com/tlhcelik/p5js-collision/blob/master/ss3.jpg">
+</p>
